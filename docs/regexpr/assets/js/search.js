@@ -1,3 +1,0 @@
-var typedoc = typedoc || {};
-            typedoc.search = typedoc.search || {};
-            typedoc.search.data = {"kinds":{"64":"Function"},"rows":[{"id":0,"kind":64,"name":"getMethods","url":"globals.html#getmethods","classes":"tsd-kind-function"},{"id":1,"kind":64,"name":"getProperties","url":"globals.html#getproperties","classes":"tsd-kind-function"},{"id":2,"kind":64,"name":"getPropertyByValue","url":"globals.html#getpropertybyvalue","classes":"tsd-kind-function"}]};
